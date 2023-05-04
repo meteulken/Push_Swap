@@ -14,8 +14,8 @@
 
 void	ft_push_small_a(t_list **stackA, t_list **stackB, int flag)
 {
-	int	i;
 	t_list	*head;
+	int		i;
 
 	i = 0;
 	head = *stackA;
@@ -25,19 +25,13 @@ void	ft_push_small_a(t_list **stackA, t_list **stackB, int flag)
 		{
 			if (i <= 2 - flag)
 			{
-				while (i > 0)
-				{
+				while (i-- > 0)
 					ra(stackA);
-					i--;
-				}
 			}
 			else
 			{
-				while ((5 - flag) > i)
-				{
+				while ((5 - flag) > i++)
 					rra(stackA);
-					i++;
-				}
 			}
 			pb(stackA, stackB);
 		}
