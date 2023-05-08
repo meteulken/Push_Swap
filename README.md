@@ -9,6 +9,10 @@
 	<p>1. Repoyu bilgisayarınıza klonlayın: <code>git clone https://github.com/meteulken/push_swap.git</code></p>
 	<p>2. <code>cd Push_swap</code></p>
 	<p>3. <code>make</code> komutunu çalıştırarak programı derleyin</p>
+ <h2>Radix Sort</h2>
+Radix sort, bir sıralama algoritmasıdır ve sayıları basamaklarına ayırarak sıralama işlemini gerçekleştirir. Algoritmanın temel mantığı, öncelikle en az önemli basamağı kullanarak sayıları sıralamaktır. 
+<br>Daha sonra, bir sonraki basamağı kullanarak sıralamaya devam edilir. Bu işlem, tüm basamaklar tamamlanana kadar devam eder ve sonunda sayılar tamamen sıralanmış olur.
+
 
  <h2>Kullanım</h2>
 	<p>Programı derledikten sonra, iki şekilde kullanabilirsiniz:</p>
