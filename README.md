@@ -31,7 +31,6 @@ pa</code></pre>
 	<p>Programın doğru çalışıp çalışmadığını kontrol etmek için <code>./push_swap arg1 arg2 arg3 ... | ./checker arg1 arg2 arg3 ...</code> komutunu kullanabilirsiniz. 
   <br>Bu komut, sıralama işlemini <code>push_swap</code> programı ile gerçekleştirdikten sonra, doğru bir şekilde sıralanıp sıralanmadığını kontrol edecektir.</p>
 
- <h2>Lisans</h2>
-	<p>Bu proje, MIT lisansı ile lisanslanmıştır. Detaylı bilgi için <code>LICENSE</code> dosyasına bakınız.</p>
+
 </body>
 </html>
